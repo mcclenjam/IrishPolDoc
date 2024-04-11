@@ -12,5 +12,5 @@
 #' @source Created by Jamie McClenaghan by very unscientifically searching Irish political party websites for internal policy documents
 #'
 #' @examples
-#' data(IrishPolDocData)
-"IrishPolDocData"
+#' data(IrishPolDoc)
+"IrishPolDoc"
