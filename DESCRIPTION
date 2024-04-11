@@ -1,0 +1,13 @@
+Package: IrishPolDoc
+Title: A dataset containing the internal policy documents of Irish political parties
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jamie", "McClenaghan", , "jamie.mcclenaghan@ucdconnect.ie", role = c("aut", "cre"))
+Description: Downloads the dataset containing the internal policy documents of Irish political parties.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+LazyData: true

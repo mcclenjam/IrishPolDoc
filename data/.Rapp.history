@@ -1,0 +1,2 @@
+load("/Users/jamiemcc/Documents/IrishPolDoc/data/data.rda")
+load("/Users/jamiemcc/Documents/IrishPolDoc/data/poldata.rda")
