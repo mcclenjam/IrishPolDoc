@@ -12,7 +12,7 @@ Information contained within the data-frame consists of;
 
 Current internal Irish party policy documents for; 
 * Fine Gael
-* Fianna Fail
+* Fianna Fáil
 * Sinn Féin
 * Labour
 * People Before Profit
