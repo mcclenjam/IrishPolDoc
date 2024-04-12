@@ -15,6 +15,7 @@ Current internal Irish party policy documents for;
 * Fianna Fail
 * Sinn Féin
 * Labour
+* People Before Profit
 * Green Party
 * Social Democrats
 
